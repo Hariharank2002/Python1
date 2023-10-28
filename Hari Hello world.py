@@ -1,7 +1,7 @@
 try:
   a=100
   b=200
-  x=a+b*a-b
-  print(x)
+  c=a+b*a-b
+  print(c)
 finally:
-  print("success")
+  print("finish")
