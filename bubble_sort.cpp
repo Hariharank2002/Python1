@@ -1,5 +1,6 @@
 # Python program for implementation of Bubble Sort
 # os import 
+# flask it in
 def bubbleSort(arr):
 	n = len(arr)
 	# optimize code, so if the array is already sorted, it doesn't need
